@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
 
-data/
+data/*
+!data/paper images/
 method_1_output/
